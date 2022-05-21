@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url("https://images.unsplash.com/photo-1539678786826-79e8b51b457a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+  opacity: 0.8;
+  background-size: cover;
+  position: absolute;
+}
+
+.form-box {
+  width: 380px;
+  height: 480px;
+  position: relative;
+  margin: 6% auto;
+  background: rgba(222, 222, 222, 0.6);
+  padding: 5px;
+  overflow: hidden;
+  border-radius: 50px;
+  opacity: 0.8;
+}
+
+.btn-box {
+  width: 250px;
+  margin: 35px auto;
+  position: relative;
+  box-shadow: 0 0 20px 9px #ff61241f;
+  border-radius: 30px;
+}
+
+.btn-switch {
+  padding: 10px 30px;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  outline: none;
+  position: relative;
+}
+
+.log {
+  left: 5px;
+}
+
+.reg {
+  left: 5px;
+}
+
+#btn {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 140px;
+  height: 100%;
+  background: linear-gradient(to bottom, #54a4ff, #d9ebff);
+  border-radius: 30px;
+  transition: 0.5s;
+}
+
+.input-group {
+  top: 180px;
+  position: absolute;
+  width: 280px;
+  transition: 0.5s;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px 0;
+  margin: 5x 0;
+  border-top: 0;
+  border-bottom: 1px solid #999;
+  border-right: 0;
+  border-left: 0;
+  outline: none;
+  background: transparent;
+}
+
+.btn-place {
+  width: 100%;
+  position: relative;
+}
+
+.submit-btn {
+  width: 85%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  border: 0;
+  outline: none;
+  border-radius: 30px;
+  background: linear-gradient(to right, #54a4ff, #d9ebff);
+}
+
+#reg {
+  background: linear-gradient(to left, #54a4ff, #d9ebff);
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.login-btn {
+  margin: 20px auto;
+}
+
+.check-box {
+  margin: 30px 10px 30px 0;
+}
+
+span {
+  color: #4a4a4a;
+  font-size: 12px;
+  bottom: 66px;
+  position: absolute;
+}
+
+#login {
+  left: 50px;
+}
+
+#register {
+  left: 450px;
+}
+
+.credit {
+  width: 100%;
+  color: #777;
+  font-size: 10px;
+  position: absolute;
+  bottom: 0px;
+  text-align: center;
+}

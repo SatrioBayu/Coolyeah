@@ -1,0 +1,210 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.hero {
+  height: 100%;
+  width: 100%;
+  background-image: url("https://images.unsplash.com/photo-1539678786826-79e8b51b457a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+  opacity: 0.8;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+
+.form-box {
+  width: 380px;
+  height: 480px;
+  position: relative;
+  margin: 6% auto;
+  background: rgba(222, 222, 222, 0.6);
+  padding: 5px;
+  overflow: hidden;
+  border-radius: 50px;
+  opacity: 0.8;
+}
+
+.button-box {
+  width: 220px;
+  margin: 35px auto;
+  position: relative;
+  box-shadow: 0 0 20px 9px #ff61241f;
+  border-radius: 30px;
+}
+
+.toggle-btn {
+  padding: 10px 30px;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  outline: none;
+  position: relative;
+}
+
+.log {
+  left: 5px;
+}
+
+.reg {
+  left: 10px;
+}
+
+#btn {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 110px;
+  height: 100%;
+  background: linear-gradient(to bottom, #54a4ff, #d9ebff);
+  border-radius: 30px;
+  transition: 0.5s;
+}
+
+.social-icons {
+  margin: 30px auto;
+  text-align: center;
+}
+
+.social-icons img {
+  width: 30px;
+  margin: 0 12px;
+  box-shadow: 0 0 20px 0 #7f7f7f3d;
+  cursor: pointer;
+}
+
+.input-group {
+  top: 180px;
+  position: absolute;
+  width: 280px;
+  transition: 0.5s;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px 0;
+  margin: 5x 0;
+  border-top: 0;
+  border-bottom: 1px solid #999;
+  border-right: 0;
+  border-left: 0;
+  outline: none;
+  background: transparent;
+}
+
+.submit-btn {
+  width: 85%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  border: 0;
+  outline: none;
+  border-radius: 30px;
+  background: linear-gradient(to right, #54a4ff, #d9ebff);
+}
+
+#reg {
+  background: linear-gradient(to left, #54a4ff, #d9ebff);
+  margin-top: 10px;
+}
+
+.login-btn {
+  margin: 20px auto;
+}
+
+.check-box {
+  margin: 30px 10px 30px 0;
+}
+
+span {
+  color: #4a4a4a;
+  font-size: 12px;
+  bottom: 66px;
+  position: absolute;
+}
+
+#login {
+  left: 50px;
+}
+
+#register {
+  left: 450px;
+}
+
+.credit {
+  width: 100%;
+  color: #777;
+  font-size: 10px;
+  position: absolute;
+  bottom: 0px;
+  text-align: center;
+} */
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+a {
+  text-decoration: none;
+}
+.gagal {
+  text-align: center;
+  color: #ff0026;
+}
+.jumbotron {
+  border-radius: 10px;
+  width: 100%;
+  height: 15rem;
+  background-color: skyblue;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/002/046/780/original/empty-classroom-in-high-school-illustration-vector.jpg");
+  background-position: center;
+  background-size: contain;
+  position: relative;
+}
+.materi {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.judul {
+  color: white;
+  position: absolute;
+  bottom: 0;
+}
+.pengajar {
+  padding: 10px;
+  border: 1px solid #0078d7;
+  box-shadow: 1px 1px grey;
+  border-radius: 5px;
+  min-height: 15rem;
+  background-color: white;
+}
+.isi {
+  height: 30rem;
+}
+.isi .card {
+  border-radius: 10px;
+}
+.gambar {
+  border: 0px;
+  border-radius: 10px;
+  width: 4rem;
+  height: 3rem;
+}
+
+.bluebg {
+  background-color: #0078d7;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-blue {
+  color: #0078d7;
+}
+
+.shado:hover {
+  box-shadow: 0 0.25rem 0.5rem rgba(68, 143, 201, 0.6);
+}
