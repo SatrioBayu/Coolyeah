@@ -19,7 +19,7 @@
 
 <div align="center">
     <img src="public/images/login.png"/>
-    <img src="public/images/registrasi.png"/>
+    <img src="public/images/register.png"/>
     <img src="public/images/dashboard.png"/>
     <img src="public/images/detail.png"/>
     <img src="public/images/biodata.png"/>
