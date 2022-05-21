@@ -10,7 +10,12 @@
     in Brawijaya University. Quick introduction 
     Coolyeah is web app with the idea trying to "clone" google classroom or other classrom course platform.
     <br /><br />
+    We also make the mobile version of this app. You can check it out on this link
+    <a href="https://github.com/aditasha/coolyeah">
+    Mobile Version
+    </a>
   </p>
+
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -38,7 +43,7 @@
 </div>
 <br />
 
-This project was created using PHP, CodeIgniter 4 (FrameWork), PhpMyAdmin (Database) .
+This project was created using PHP, CodeIgniter 4 (Framework), PhpMyAdmin (Database) .
 
 ### Built With
 
@@ -54,5 +59,5 @@ This project was created using PHP, CodeIgniter 4 (FrameWork), PhpMyAdmin (Datab
 
 - [M. Satrio Bayu P](https://github.com/SatrioBayu)
 - [Aditasha Fadhila](https://github.com/aditasha)
-- [M. Iqbal Ardiansyah]()
-- [M. Hafid Nur A](https://www.instagram.com/iqbal.ar21/)
+- [M. Iqbal Ardiansyah](https://www.instagram.com/iqbal.ar21/)
+- [M. Hafid Nur A](https://www.instagram.com/mhafid_nura/)
